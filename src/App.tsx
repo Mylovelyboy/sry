@@ -582,7 +582,7 @@ function App() {
                   </p>
                   <p className="text-right font-bold mt-4">
                     Yours sincerely,<br />
-                    Idiot
+                    Idiot check this out https://srys-ry-maynks-projects.vercel.app/
                   </p>
                   <div className="text-center mt-3">
                     <span className="text-xs text-gray-500">P.S. Your forgiveness means the world to me.</span>
