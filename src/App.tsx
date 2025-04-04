@@ -533,7 +533,7 @@ function App() {
         <div className="comic-panel bg-white p-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform">
           <div className="comic-speech-bubble mb-4">
             <p className="font-comic text-lg text-gray-800">
-              "This is us btw"
+              "This is us btw" check this  https://srys-ry-maynks-projects.vercel.app/
             </p>
           </div>
           <img
@@ -582,7 +582,7 @@ function App() {
                   </p>
                   <p className="text-right font-bold mt-4">
                     Yours sincerely,<br />
-                    Idiot check this out https://srys-ry-maynks-projects.vercel.app/
+                    Idiot check this 
                   </p>
                   <div className="text-center mt-3">
                     <span className="text-xs text-gray-500">P.S. Your forgiveness means the world to me.</span>
